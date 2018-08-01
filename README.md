@@ -1,2 +1,2 @@
 # secmaster
-General database for economic and financial data analysis
+MySQL database for economic and financial data analysis
